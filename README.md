@@ -3,5 +3,5 @@
 <h3 align="center">I'm interesting in Cyber Security and Embedded Systems</h3>
 
 
-## Snake eating my contributions
+## Snake is eating my contributions
 ![snake animation](https://raw.githubusercontent.com/atphosphate/atphosphate/output/github-contribution-grid-snake-dark.svg)
