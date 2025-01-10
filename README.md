@@ -1,6 +1,6 @@
 <h1 align="center">Hi! I'm Cagri TOKUR</h1>
 <h3 align="center">A Computer Engineer Student of Selcuk University in Turkiye</h3>
-<h3 align="center">I'm interesting in Cyber Security and Embedded Systems</h3>
+<h3 align="center">I'm interesting in Cyber Security</h3>
 
 
 ## Snake is eating my contributions
